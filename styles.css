@@ -1,0 +1,78 @@
+<!DOCTYPE.html>
+<html>
+	<head>
+			<title> Formative Assessment 3 </title>
+			
+			<style> 
+			{
+				box-sizing: border-box;
+			}
+			
+			body {
+					background-color: #a9cce3;
+					background-image: url("Art.jpg");
+					background-repeat: no-repeat;
+					background-position: center;
+					background-size: 1650px;
+					background-attachment: scroll;
+					
+				    margin: 0px;
+			}
+			
+			h1 {
+					
+					position: absolute;
+					top: 3%;
+					left: 40%;
+					text-align: center;
+					background-color:#a9cce3;
+					
+					font-family: Verdana;
+					font-size: 35px;
+					color: #2e86c1;
+					
+					border: 2px;
+					border-style: dotted;
+					border-color: blue;
+					
+					padding-top: 10px;
+					padding-bottom: 10px;
+					padding-left: 15px;
+					padding-right: 15px;
+					
+					width: 250px;
+					margin-bottom: 20px;
+					
+			}
+			
+			p {
+				    position: absolute;
+					top: 20%;
+					left: 31%;
+					
+					text-align: justify;
+					font-style: italic;
+					
+					background-color: hsl(240,31%,95%);
+					color: #5499c7;
+					
+					border: 3px, black;
+					border-top-style: dashed;
+					border-bottom-style: outset;
+					border-right-style: dotted;
+					border-left-style: double;
+					
+					width: 500px;
+					padding: 20px;
+			}
+			
+			span {
+					font-weight: bold;
+					font-style: italic;
+					color: rgb (133,193,233);
+					
+					margin-left: 2px;
+					margin-right: 5px;
+			}
+	</head>
+</html>
